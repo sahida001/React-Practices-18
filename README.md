@@ -1,2 +1,2 @@
-# React-Practices-18
+# React-Practice-18
 React form validation
